@@ -1,0 +1,13 @@
+{
+    "games": [
+        {
+            "name": "Doka2",
+            "category": ["horror", "multiplayer"],
+            "img": "/img/doka2.jpg"
+        },
+        {
+            "name": "CS GO",
+            "category": ["shooter", "multiplayer"]
+        }
+    ]
+}
