@@ -1,13 +1,74 @@
 {
     "games": [
         {
-            "name": "Doka2",
-            "category": ["horror", "multiplayer"],
-            "img": "/img/doka2.jpg"
+            "name": "Little Nightmares",
+            "img": "img/littlenightmares.jpg",
+            "description": "Сборник из двух игр Little Nightmares познакомит вас с прекрасной и пугающей знаменитой серией платформеров-головоломок.",
+            "platform": "Xbox Series X/S",
+            "price": 49.99
         },
         {
-            "name": "CS GO",
-            "category": ["shooter", "multiplayer"]
-        }
+            "name": "Mafia III",
+            "img": "img/mafia3.jpg",
+            "description": "Третья часть криминальной саги Mafia: 1968 год, Нью-Бордо, Луизиана.",
+            "platform": "Xbox One",
+            "price": 29.99
+        },
+        {
+            "name": "Fifa 2022",
+            "img": "img/fifa2022.jpg",
+            "description": "FIFA 22 Powered by Football™ графической технологии как никогда приближает игру к реальности.",
+            "platform": ["Xbox Series X/S", "Xbox One"],
+            "price": 59.99
+        },
+        {
+            "name": "Forza Horizon 4",
+            "img": "img/forzahorizon.jpg",
+            "description": "Времена года меняют облик главного автомобильного фестиваля планеты.",
+            "platform": ["Xbox Series X/S", "Xbox One"],
+            "price": 16.49
+        },
+        {
+            "name": "Metro Exodus",
+            "img": "img/metro.jpg",
+            "description": "Оставьте позади руины московского метро и снова отправляйтесь в путешествие по постапокалиптическим землям России.",
+            "platform": ["Xbox Series X/S", "Xbox One"],
+            "price": 7.49
+        },
+        {
+            "name": "Sea of thieves",
+            "img": "img/seaofthieves.jpg",
+            "description": "Оставьте позади руины московского метро и снова отправляйтесь в путешествие по постапокалиптическим землям России.",
+            "platform": ["Xbox Series X/S", "Xbox One"],
+            "price": 19.99
+        },
+        {
+            "name": "FAR CRY 6",
+            "img": "img/farcry6.jpg",
+            "description": "Far Cry® 6 поведает о революции на тропическом острове Яре.",
+            "platform": "Xbox Series X/S",
+            "price": 79.99
+        },
+        {
+            "name": "GTA V",
+            "img": "img/gta5.jpg",
+            "description": "Исследуйте восхитительный мир Лос-Сантоса и округа Блейн в Grand Theft Auto V.",
+            "platform": ["Xbox Series X/S", "Xbox One"],
+            "price": 14.99
+        },
+        {
+            "name": "Mortal Combat XL",
+            "img": "img/mk.jpg",
+            "description": "Расширьте границы Mortal Kombat X при помощи новых и уже вышедших дополнений.",
+            "platform": ["Xbox Series X/S", "Xbox One"],
+            "price": 19.99
+        },
+        {
+            "name": "NBA 2K23",
+            "img": "img/nba.jpg",
+            "description": "Будьте на высоте и полностью раскройте свой потенциал в NBA 2K23",
+            "platform": ["Xbox Series X/S", "Xbox One"],
+            "price": 49.99
+        } 
     ]
 }
