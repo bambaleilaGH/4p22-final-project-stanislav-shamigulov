@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/4p22-final-project-stanislav-shamigulov/static/css/main.c223ff04.css",
+    "main.js": "/4p22-final-project-stanislav-shamigulov/static/js/main.4d2780d1.js",
+    "index.html": "/4p22-final-project-stanislav-shamigulov/index.html",
+    "main.c223ff04.css.map": "/4p22-final-project-stanislav-shamigulov/static/css/main.c223ff04.css.map",
+    "main.4d2780d1.js.map": "/4p22-final-project-stanislav-shamigulov/static/js/main.4d2780d1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c223ff04.css",
+    "static/js/main.4d2780d1.js"
+  ]
+}

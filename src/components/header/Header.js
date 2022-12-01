@@ -4,7 +4,7 @@ import './header.css';
 function Header(props) {
     return ( 
         <div className="header">
-            <img className="logo" src="../img/logo.svg" alt="Логотип Gamestore" />
+            <img className="logo" src="img/logo.svg" alt="Логотип Gamestore" />
             <div className="navigation">
                 <ul>
                     <li><Link to="/">Витрина</Link></li>
