@@ -2,7 +2,7 @@ import './content.css';
 import { useEffect, useState } from 'react';
 import Card from '../card/Card';
 
-function Content() {
+function Content(props) {
     const [ searchQueryString, setSearchQueryString ] = useState('');
     function searchQuery(event) {
         let searchQueryString = event.target.value; 
@@ -24,7 +24,7 @@ function Content() {
                 {
                     games.filter(item => item.name.toLowerCase().includes(searchQueryString)).map((item, id) => {
                         return <Card key={id} id={item.id} img={item.img} title={item.name} description={item.description} 
-                        price={item.price} />;
+                        price={item.price} cartSession={props.cartSession} setCartSession={props.setCartSession}/>;
                     })
                 } 
             </div>

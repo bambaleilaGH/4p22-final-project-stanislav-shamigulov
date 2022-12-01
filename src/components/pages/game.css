@@ -49,6 +49,7 @@
     color: #fff;
     padding: 5px 10px;
     width: 110px;
+    text-align: center;
 }
 
 .game__container-add:hover {
